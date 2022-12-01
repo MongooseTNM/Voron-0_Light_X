@@ -41,4 +41,19 @@ Insert the heat set inserts on both 3d printed spacers as shown in the photos. *
 ![heatsetinsert1](https://cdn.discordapp.com/attachments/604735153092165642/1047754401936330813/image.png)
 ![heatsetinsert2](https://cdn.discordapp.com/attachments/604735153092165642/1047754402250891264/image.png)
 
+### 3. Install X Beam
+
+Press together the 3d printed spacer and the beam on both sides. Make sure that the holes line up and the end is as close to flush as possible.
+
+![presstogether1](https://cdn.discordapp.com/attachments/604735153092165642/1048020484190646382/image.png)
+![lineup1](https://cdn.discordapp.com/attachments/604735153092165642/1048020099774300170/image.png)
+
+Then insert beam like the default instructions BUT, use M3x16 bolts instead of M3x12.
+
+![insertbeam](https://cdn.discordapp.com/attachments/604735153092165642/1048022292011159622/image_1.png)
+
+
+
+
+
 # WIP
