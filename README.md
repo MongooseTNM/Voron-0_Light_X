@@ -10,11 +10,11 @@ Pictured above is every part you need to perform this mod
 
 ## Parts Needed
 
-XY_Joint_Right_Upper - https://github.com/MongooseTNM/Voron-0_Light_X/tree/main/STLs
-XY_Joint_Left_Upper - https://github.com/MongooseTNM/Voron-0_Light_X/tree/main/STLs
-Plate_X_Beam_Spacer_x2 - https://github.com/MongooseTNM/Voron-0_Light_X/tree/main/STLs
-Voron Spec M3 Threaded Insert - Short M3x5x4
-The Plate Itself - .5" wide x .125" thick 
+- XY_Joint_Right_Upper - https://github.com/MongooseTNM/Voron-0_Light_X/tree/main/STLs
+- XY_Joint_Left_Upper - https://github.com/MongooseTNM/Voron-0_Light_X/tree/main/STLs
+- Plate_X_Beam_Spacer_x2 - https://github.com/MongooseTNM/Voron-0_Light_X/tree/main/STLs
+- Voron Spec M3 Threaded Insert - Short M3x5x4
+- The Plate Itself - .5" wide x .125" thick x 7.874" long (12.7mm wide x 3.175mm thick x 200mm long)
 
 
 
