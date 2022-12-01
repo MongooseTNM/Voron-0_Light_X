@@ -19,3 +19,9 @@ This mod was designed to provide an easy way to have a lighter X carriage at a l
 - The Plate Itself - 1 - .5" wide x .125" thick x 7.874" long (12.7mm wide x 3.175mm thick x 200mm long) Drilled and tapped according to the PDF
 
 ### I have included a STEP File of the whole assembly.
+
+## Instructions
+
+1. Heat Set Inserts
+![heatsetinsert1](https://cdn.discordapp.com/attachments/604735153092165642/1047754401936330813/image.png)
+![heatsetinsert2](https://cdn.discordapp.com/attachments/604735153092165642/1047754402250891264/image.png)
