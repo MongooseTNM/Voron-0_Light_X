@@ -5,6 +5,7 @@ The release of my custom X axis beam for the Voron 0/0.1 printer.
 This mod was designed to provide an easy way to have a lighter X carriage at a low price
 
 ![Image of Voron Zero Light X](https://cdn.discordapp.com/attachments/635687829254701107/1047738704229306418/image.png)
+![Image of Voron Zero Light X](https://cdn.discordapp.com/attachments/604735153092165642/1047746389897129994/image.png)
 Pictured above is every part you need to perform this mod
 
 
