@@ -30,7 +30,7 @@ Tap the middle 10 holes for M2
 
 ![tapholes](https://cdn.discordapp.com/attachments/604735153092165642/1047755970836713492/image.png)
 
-and make sure that you can slide a M3 bolt through the outer 4 holes (2 on either side), if not drill out with 3mm drill bit. It should be a light interference fit.
+and make sure that you can slide a M3 bolt through the outer 4 holes (2 on either side), if not drill out with 3mm drill bit. It should be a light interference fit to reduce play between the spacer and the plate.
 
 ![tolerances1](https://cdn.discordapp.com/attachments/604735153092165642/1047756844728332378/image.png)
 
