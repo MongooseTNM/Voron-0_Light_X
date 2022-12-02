@@ -74,6 +74,6 @@ For me the hole on the mount lines up with the second from the right hole on the
 
 ![Endstopadapter2](https://cdn.discordapp.com/attachments/604735153092165642/1048034719931047958/image.png)
 
-## You are now done with this mod! Continue with the default voron assembly guide.
+## You are now done with this mod! Continue with the default Voron 0 assembly guide.
 
 
