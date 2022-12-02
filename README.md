@@ -20,7 +20,6 @@ This mod was designed to provide an easy way to have a lighter X carriage at a l
 
 ### I have included a STEP File of the whole assembly.
 
-# WIP
 
 ## Instructions
 
