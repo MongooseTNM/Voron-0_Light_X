@@ -25,7 +25,7 @@ This mod was designed to provide an easy way to have a lighter X carriage at a l
 
 ### 1. Tap Plate and Ensure Tolerances
 
-Tap the middle 10 holes for M2
+Tap the middle 10 linear rail holes for M2
 
 ![tapholes](https://cdn.discordapp.com/attachments/604735153092165642/1047755970836713492/image.png)
 
