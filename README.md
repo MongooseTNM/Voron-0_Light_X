@@ -70,7 +70,7 @@ Because the bottom edge of the X beam doesnt exist anymore you need to print thi
 
 ![Endstopadapter](https://cdn.discordapp.com/attachments/604735153092165642/1048034720266584114/image.png)
 
-For me the hole on the mount lines up with the second from the right hole on the beam.
+For me the hole on the adapter lines up with the second from the right hole on the beam.
 
 ![Endstopadapter2](https://cdn.discordapp.com/attachments/604735153092165642/1048034719931047958/image.png)
 
