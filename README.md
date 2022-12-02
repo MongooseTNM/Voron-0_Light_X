@@ -48,7 +48,7 @@ Press together the 3d printed spacer and the beam on both sides. Make sure that 
 ![presstogether1](https://cdn.discordapp.com/attachments/604735153092165642/1048020484190646382/image.png)
 ![lineup1](https://cdn.discordapp.com/attachments/604735153092165642/1048020099774300170/image.png)
 
-REPLACES PAGE 71: Mount Rail using M2 bolts. Use the modified rail installation guide
+REPLACES PAGE 71: Mount linear rail using M2 bolts. Use the modified rail installation guide
 
 ![mountrail](https://cdn.discordapp.com/attachments/604735153092165642/1048026218194280550/Screenshot_2022-12-01_155843.png)
 
@@ -56,10 +56,11 @@ REPLACES PAGE 72: Then insert beam like the default instructions BUT, use M3x16 
 
 ![insertbeam](https://cdn.discordapp.com/attachments/604735153092165642/1048022292011159622/image_1.png)
 
-REPLACES PAGE 76: Then bolt Endstop mount like the default instructions BUT, use a M3x20 bolt instead of M3X16.
+REPLACES PAGE 76: Then bolt Endstop mount like the default instructions BUT, use a M3x20 bolt instead of M3x16.
 
 ![Endstopbolt1](https://cdn.discordapp.com/attachments/604735153092165642/1048024315968360508/image_2.png)
 
 
+## You are now done with this mod! Continue with the default voron assembly guide.
 
-# WIP
+
