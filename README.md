@@ -13,6 +13,8 @@ This mod was designed to provide an easy way to have a lighter X carriage at a l
 - XY_Joint_Right_Upper - 1 - https://github.com/MongooseTNM/Voron-0_Light_X/tree/main/STLs
 - XY_Joint_Left_Upper - 1 - https://github.com/MongooseTNM/Voron-0_Light_X/tree/main/STLs
 - Plate_X_Beam_Spacer_x2 - 2 - https://github.com/MongooseTNM/Voron-0_Light_X/tree/main/STLs
+- Y Endstop Adapter - 1 - https://github.com/MongooseTNM/Voron-0_Light_X/tree/main/STLs
+- Updated Centered Rail Installation Guide - 1 - https://github.com/MongooseTNM/Voron-0_Light_X/tree/main/STLs
 - Voron Spec M3 Threaded Insert - 6 - Short M3x5x4
 - M3x20mm BHCS - 1 - To replace the endstop bumber mounting bolt
 - M3x16mm BHCS - 3 - To replace the M3x12mm bolts that mount the original extrusion to the 3d printed parts
@@ -47,18 +49,30 @@ Press together the 3d printed spacer and the beam on both sides. Make sure that 
 ![presstogether1](https://cdn.discordapp.com/attachments/604735153092165642/1048020484190646382/image.png)
 ![lineup1](https://cdn.discordapp.com/attachments/604735153092165642/1048020099774300170/image.png)
 
-REPLACES PAGE 71: Mount linear rail using M2 bolts. Use the modified rail installation guide
+**REPLACES PAGE 71:**
+Mount linear rail using M2 bolts. Use the modified rail installation guide
 
 ![mountrail](https://cdn.discordapp.com/attachments/604735153092165642/1048026218194280550/Screenshot_2022-12-01_155843.png)
 
-REPLACES PAGE 72: Then insert beam like the default instructions BUT, use M3x16 bolts instead of M3x12.
+**REPLACES PAGE 72:**
+Then insert beam like the default instructions BUT, use M3x16 bolts instead of M3x12.
 
 ![insertbeam](https://cdn.discordapp.com/attachments/604735153092165642/1048022292011159622/image_1.png)
 
-REPLACES PAGE 76: Then bolt Endstop mount like the default instructions BUT, use a M3x20 bolt instead of M3x16.
+**REPLACES PAGE 76:**
+Then bolt Endstop mount like the default instructions BUT, use a M3x20 bolt instead of M3x16.
 
 ![Endstopbolt1](https://cdn.discordapp.com/attachments/604735153092165642/1048024315968360508/image_2.png)
 
+### 4. Endstop Adapter
+
+Because the bottom edge of the X beam doesnt exist anymore you need to print this new Adapter and mount it so it lines up with the endstop (use glue or similar).
+
+![Endstopadapter](https://cdn.discordapp.com/attachments/604735153092165642/1048034720266584114/image.png)
+
+For me the hole on the mount lines up with the second from the right hole on the beam.
+
+![Endstopadapter2](https://cdn.discordapp.com/attachments/604735153092165642/1048034719931047958/image.png)
 
 ## You are now done with this mod! Continue with the default voron assembly guide.
 
