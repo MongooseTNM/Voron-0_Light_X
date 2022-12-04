@@ -10,11 +10,11 @@ This mod was designed to provide an easy way to have a lighter X carriage at a l
 
 ## Parts Needed
 - Part - Quantity - Link/Info
-- XY_Joint_Right_Upper - 1 - https://github.com/MongooseTNM/Voron-0_Light_X/tree/main/STLs
-- XY_Joint_Left_Upper - 1 - https://github.com/MongooseTNM/Voron-0_Light_X/tree/main/STLs
-- Plate_X_Beam_Spacer_x2 - 2 - https://github.com/MongooseTNM/Voron-0_Light_X/tree/main/STLs
-- Y Endstop Adapter - 1 - https://github.com/MongooseTNM/Voron-0_Light_X/tree/main/STLs
-- Updated Centered Rail Installation Guide - 1 - https://github.com/MongooseTNM/Voron-0_Light_X/tree/main/STLs
+- XY_Joint_Right_Upper - 1 - https://github.com/MongooseTNM/Voron-0_Light_X/tree/PlateX/STLs
+- XY_Joint_Left_Upper - 1 - https://github.com/MongooseTNM/Voron-0_Light_X/tree/PlateX/STLs
+- Plate_X_Beam_Spacer_x2 - 2 - https://github.com/MongooseTNM/Voron-0_Light_X/tree/PlateX/STLs
+- Y Endstop Adapter - 1 - https://github.com/MongooseTNM/Voron-0_Light_X/tree/PlateX/STLs
+- Updated Centered Rail Installation Guide - 1 - https://github.com/MongooseTNM/Voron-0_Light_X/tree/PlateX/STLs
 - Voron Spec M3 Threaded Insert - 6 - Short M3x5x4
 - M3x20mm BHCS - 1 - To replace the endstop bumber mounting bolt
 - M3x16mm BHCS - 3 - To replace the M3x12mm bolts that mount the original extrusion to the 3d printed parts
